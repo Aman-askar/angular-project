@@ -1,0 +1,19 @@
+input[type=email],
+[type=text],
+[type=password] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+.login-btn {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 0;
+    background-color: rgb(61, 60, 60);
+    color: white;
+}
+
